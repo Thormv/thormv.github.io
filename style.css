@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    border: 10px;
+    text-align: center;
+    background: #5f3e7a;
+    color: lavender;
+    font-size: 30px;
+    
+}
+.body {
+    background: hotpink;
+    color:lavender;
+}
+.h1 {
+    color: lavender;
+}
+body {
+    background: rgb(31, 30, 29);
+}
